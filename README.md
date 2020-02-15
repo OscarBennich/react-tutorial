@@ -1,2 +1,2 @@
 # react-tutorial
-Testing
+Small project to start learning about React.
